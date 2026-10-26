@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Lenovo/alphaparser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/alphaparser_core.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wextra -Wpedantic -O3 -o CMakeFiles\\alphaparser_core.dir\\src\\Lexer.cpp.obj -c C:\\Users\\Lenovo\\alphaparser\\src\\Lexer.cpp",
+  "file": "C:/Users/Lenovo/alphaparser/src/Lexer.cpp",
+  "output": "CMakeFiles/alphaparser_core.dir/src/Lexer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/alphaparser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/alphaparser_core.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wextra -Wpedantic -O3 -o CMakeFiles\\alphaparser_core.dir\\src\\Parser.cpp.obj -c C:\\Users\\Lenovo\\alphaparser\\src\\Parser.cpp",
+  "file": "C:/Users/Lenovo/alphaparser/src/Parser.cpp",
+  "output": "CMakeFiles/alphaparser_core.dir/src/Parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/alphaparser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/alphaparser_core.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wextra -Wpedantic -O3 -o CMakeFiles\\alphaparser_core.dir\\src\\SemanticAnalyzer.cpp.obj -c C:\\Users\\Lenovo\\alphaparser\\src\\SemanticAnalyzer.cpp",
+  "file": "C:/Users/Lenovo/alphaparser/src/SemanticAnalyzer.cpp",
+  "output": "CMakeFiles/alphaparser_core.dir/src/SemanticAnalyzer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/alphaparser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/alphaparser_core.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wextra -Wpedantic -O3 -o CMakeFiles\\alphaparser_core.dir\\src\\CodeGenerator.cpp.obj -c C:\\Users\\Lenovo\\alphaparser\\src\\CodeGenerator.cpp",
+  "file": "C:/Users/Lenovo/alphaparser/src/CodeGenerator.cpp",
+  "output": "CMakeFiles/alphaparser_core.dir/src/CodeGenerator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/alphaparser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/alphaparser_core.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wextra -Wpedantic -O3 -o CMakeFiles\\alphaparser_core.dir\\src\\Compiler.cpp.obj -c C:\\Users\\Lenovo\\alphaparser\\src\\Compiler.cpp",
+  "file": "C:/Users/Lenovo/alphaparser/src/Compiler.cpp",
+  "output": "CMakeFiles/alphaparser_core.dir/src/Compiler.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lenovo/alphaparser/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/alphaparser_demo.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wextra -Wpedantic -O3 -o CMakeFiles\\alphaparser_demo.dir\\examples\\main.cpp.obj -c C:\\Users\\Lenovo\\alphaparser\\examples\\main.cpp",
+  "file": "C:/Users/Lenovo/alphaparser/examples/main.cpp",
+  "output": "CMakeFiles/alphaparser_demo.dir/examples/main.cpp.obj"
+}
+]

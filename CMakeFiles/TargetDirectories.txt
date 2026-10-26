@@ -1,0 +1,4 @@
+C:/Users/Lenovo/alphaparser/build/CMakeFiles/alphaparser_core.dir
+C:/Users/Lenovo/alphaparser/build/CMakeFiles/alphaparser_demo.dir
+C:/Users/Lenovo/alphaparser/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/alphaparser/build/CMakeFiles/rebuild_cache.dir

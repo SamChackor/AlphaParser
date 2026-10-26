@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libalphaparser_core.a CMakeFiles/alphaparser_core.dir/src/Lexer.cpp.obj CMakeFiles/alphaparser_core.dir/src/Parser.cpp.obj CMakeFiles/alphaparser_core.dir/src/SemanticAnalyzer.cpp.obj CMakeFiles/alphaparser_core.dir/src/CodeGenerator.cpp.obj CMakeFiles/alphaparser_core.dir/src/Compiler.cpp.obj
+C:\MinGW\bin\ranlib.exe libalphaparser_core.a
