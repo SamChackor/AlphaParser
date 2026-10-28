@@ -1,4 +1,4 @@
-AlphaParser: Quantitative Trading DSL Transpiler
+#  AlphaParser: Quantitative Trading DSL Transpiler
 AlphaParser is a custom source-to-source compiler designed to bridge the gap between high-level quantitative strategy research and ultra-low-latency execution. It translates domain-specific language (DSL) trading signals into optimized, cache-aligned, zero-allocation C++ code.
 
 By parsing human-readable financial formulas into an Abstract Syntax Tree (AST) and emitting raw C++, AlphaParser bypasses the overhead of interpreted environments (like Python), generating execution paths suitable for high-frequency trading infrastructure.
